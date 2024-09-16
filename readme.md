@@ -1,8 +1,10 @@
-# Meu Site Básico
+# Demo GitHub Pages
 
 ## Descrição
 
-Este projeto consiste em um site estático simples criado para demonstrar o uso de HTML, CSS e Bootstrap. O site inclui uma página inicial (`index.html`) com um cabeçalho, seções serviços e portfolio, além de um rodapé. O site é estilizado usando Bootstrap e CSS personalizado, e está hospedado no GitHub Pages.
+Este projeto proprosto pela faculdade Descomplica consiste em um site estático simples criado para demonstrar o uso de HTML, CSS e Bootstrap. O site inclui uma página inicial (`index.html`) com um cabeçalho, seções serviços e portfolio, além de um rodapé. O site é estilizado usando Bootstrap e CSS personalizado, e está hospedado no GitHub Pages.
+
+Você pode visualizar o site ao vivo em [GitHub Pages](https://thsrossi.github.io/demo-github-pages/).
 
 ## Objetivos
 
@@ -14,9 +16,11 @@ Este projeto consiste em um site estático simples criado para demonstrar o uso 
 
 A estrutura do projeto é a seguinte:
 
-/meu-site 
+```
+/demo-github-pages
     ├── index.html 
     └── styles.css
+```
 
 - **`index.html`**: O arquivo principal contendo o código HTML do site.
 - **`styles.css`**: O arquivo de estilos personalizados para o site.
